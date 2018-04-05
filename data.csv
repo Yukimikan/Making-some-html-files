@@ -1,0 +1,6 @@
+"first_name","middle_name","last_name","sex_flg","age","company","career","address"
+"tanaka","","hiroshi","1",30,"NEC","manager","h_tanaka@gmail.com"
+"yamada","","hiroshi","1",30,"NEC","manager","h_yamada@gmail.com"
+"sato","","hiroshi","1",30,"NEC","manager","abcd@gmail.com"
+"abe","","hiroshi","1",30,"","","h_example@gmail.com"
+"yamada","mike","jim","1",30,"NEC","manager","abc@gmail.com"
